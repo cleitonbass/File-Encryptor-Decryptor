@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+div {
+    margin-bottom: 15px;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+}
+
+input[type="password"] {
+    margin-left: 10px;
+}
+
+button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#downloadContainer {
+    margin-top: 20px;
+}
+
